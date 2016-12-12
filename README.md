@@ -6,5 +6,5 @@ docker-compose (and all pre-reqs)
 
 ###To run:
 1. clone repo
-2. run `docker-compose build` to install php extensions
-3. run `docker-compose up -d` to spin up the containers
+2. run `docker-compose build`
+3. run `docker-compose up -d`
